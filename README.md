@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Python and React Projects.<br>👯 I’m looking to collaborate on any open-source work where I can contribute code and gain new insights.<br>🌱 Learning React, Back-end stuff, and the basics of Stock Market investing.<br>💬 Ask me about Python, Flask, or how to solve the Delight by the Dome enigma in AC Mirage🦅🤷<br>⚡ Fun fact - Currently Doing MCA🤓<br>
+#  About Me:
+Full-stack developer specializing in Python backends and React frontends.<br>Currently building AI-powered applications using RAG pipelines,<br>LangChain, ChromaDB, and the Gemini API.<br>Pursuing MCA.<br>Open to open-source collaboration.<br>
 
 
 ## 🌐 Socials:
